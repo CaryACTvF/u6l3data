@@ -1,6 +1,6 @@
 Problem 2(c):
 
-["pesto","corn syrup","tartar sauce","anchovy paste","horseradish","dill","croutons","cottage cheese","cherries","honeydew melons","romaine lettuce","clams","bouillon","kale","fish sauce","andouille sausage","bacon","sushi","cod","bruschetta","creme fraiche","dates","cream cheese","anchovies","liver","grapefruits","beef","peas","vegemite","geese","cumin","plums","chicory","soymilk","marsala","cocoa powder","tarragon","prosciutto","date sugar","half-and-half","bagels","veal","habanero chilies","bean sauce","sesame seeds","turnips","pasta","brunoise","brussels sprouts","beer","coconut oil","vinegar","macaroni","powdered sugar","chai","monkfish","margarine","chard","ginger","apple butter"]
+["pesto","corn syrup","tartar sauce","anchovy paste","horseradish","dill","croutons","cottage cheese","cherries","honeydew melons","romaine lettuce","clams","bouillon","kale","fish sauce","bacon","sushi","cod","bruschetta","creme fraiche","dates","cream cheese","anchovies","liver","grapefruits","beef","peas","vegemite","geese","cumin","plums","chicory","soymilk","marsala","cocoa powder","tarragon","prosciutto","date sugar","half-and-half","bagels","veal","habanero chilies","bean sauce","sesame seeds","turnips","pasta","brunoise","brussels sprouts","beer","coconut oil","vinegar","macaroni","powdered sugar","chai","monkfish","margarine","chard","ginger","apple butter"]
 
 Problem 3(d):
 
