@@ -1,0 +1,7 @@
+Problem 2(c):
+
+["pesto","corn syrup","tartar sauce","anchovy paste","horseradish","dill","croutons","cottage cheese","cherries","honeydew melons","romaine lettuce","clams","bouillon","kale","fish sauce","andouille sausage","bacon","sushi","cod","bruschetta","creme fraiche","dates","cream cheese","anchovies","liver","grapefruits","beef","peas","vegemite","geese","cumin","plums","chicory","soymilk","marsala","cocoa powder","tarragon","prosciutto","date sugar","half-and-half","bagels","veal","habanero chilies","bean sauce","sesame seeds","turnips","pasta","brunoise","brussels sprouts","beer","coconut oil","vinegar","macaroni","powdered sugar","chai","monkfish","margarine","chard","ginger","apple butter"]
+
+Problem 3(d):
+
+[296, 76, 39, 474, 207, 232, 61, 273, 344, 37, 246, 422, 436, 240, 147, 466, 153, 97, 304, 414, 351, 489, 440, 362, 142, 40, 248, 416, 213, 477, 364, 322, 174, 211, 231, 210, 438, 188, 9, 79, 117, 311, 174, 57, 468, 95, 209, 327, 411, 231, 408, 99, 265, 190, 35, 39, 156, 467, 55, 437, 403, 186, 142, 62, 57, 287, 279, 194, 254, 10, 158, 470, 381, 201, 424, 15, 471, 377, 176, 156, 97, 303, 479, 130, 480, 336, 108, 137, 28, 287, 15, 251, 157, 341, 408, 403, 357, 302, 169, 187]
